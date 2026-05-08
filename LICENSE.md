@@ -1,4 +1,4 @@
-
+DaVinci Resolve for macOS instant LUT: lower-thirds & real-time-effects is the best DaVinci Resolve for macOS lut, featuring lower-thirds and real-time-effects. Safe, efficient,
 
 
 
